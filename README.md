@@ -1,0 +1,2 @@
+# Python
+Python interview savollari
